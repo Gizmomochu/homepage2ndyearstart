@@ -1,0 +1,49 @@
+.allOn {
+    background-color: azure;
+}
+
+.allOff {
+    background-color: black;
+}
+
+.profileImg {
+    margin: 0 auto;
+    display: block;
+}
+
+.mainTitleOn {
+    color: darkgreen;
+    background-color: rgb(241, 239, 232);
+    text-align: center;
+}
+
+.mainTitleOff {
+    color: rgb(241, 239, 232);
+    background-color: rgb(4, 4, 20);
+    text-align: center;
+}
+
+.bigBoxOn {
+    background-color: rgb(241, 239, 232);;
+}
+
+.bigBoxOff {
+    color: rgb(241, 239, 232);
+    background-color: rgb(4, 4, 20);
+}
+
+.aimOn {
+    color: brown;
+}
+
+.aimOff {
+    color: rgb(243, 215, 103);
+}
+
+.importantOn {
+    color: brown;
+}
+
+.importantOff {
+    color: rgb(243, 215, 103);
+}
