@@ -7,15 +7,14 @@
     let button = document.querySelector(".button");
     let bigBoxOn = document.querySelector(".bigBoxOn");
     let mainTitleOn = document.querySelector(".mainTitleOn");
-    let allOn = document.querySelector(".allOn");
+    let day = document.querySelector(".js-day");
     let aimOn = document.querySelector(".aimOn");
     let importantOn = document.querySelector(".importantOn")
-    let day = document.querySelector(".Day");
     
     
     button.addEventListener("click", () => {
     
-        allOn.classList.toggle("allOff");
+        day.classList.toggle("night");
         bigBoxOn.classList.toggle("bigBoxOff");
         mainTitleOn.classList.toggle("mainTitleOff");
         aimOn.classList.toggle("aimOff");
