@@ -11,39 +11,31 @@
     display: block;
 }
 
-.mainTitleOn {
+.mainTitle {
     color: darkgreen;
     background-color: rgb(241, 239, 232);
     text-align: center;
 }
 
-.mainTitleOff {
+.night .mainTitle {
     color: rgb(241, 239, 232);
     background-color: rgb(4, 4, 20);
     text-align: center;
 }
 
-.bigBoxOn {
+.bigBox {
     background-color: rgb(241, 239, 232);;
 }
 
-.bigBoxOff {
+.night .bigBox {
     color: rgb(241, 239, 232);
     background-color: rgb(4, 4, 20);
 }
 
-.aimOn {
+.bigBox__important {
     color: brown;
 }
 
-.aimOff {
-    color: rgb(243, 215, 103);
-}
-
-.importantOn {
-    color: brown;
-}
-
-.importantOff {
+.night .bigBox__important {
     color: rgb(243, 215, 103);
 }
