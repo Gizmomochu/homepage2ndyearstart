@@ -1,3 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
 .day {
     background-color: azure;
 }
@@ -24,7 +32,8 @@
 }
 
 .bigBox {
-    background-color: rgb(241, 239, 232);;
+    background-color: rgb(241, 239, 232);
+    padding: 20px 30px;
 }
 
 .night .bigBox {
