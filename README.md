@@ -1,4 +1,4 @@
-# Moja druga pierwsza strona 
+# my second first page :)
 ![krzysiek](img/Krzysiek.JPG)
 ## Demo
 https://gizmomochu.github.io/homepage2ndyearstart/
